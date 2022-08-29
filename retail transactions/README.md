@@ -1,4 +1,4 @@
-This folder contains the Tableau dashboard and the Power BI dashboard for "retail transactions" data. The original dataset is downloaded from https://sonsofhierarchies.com/real-world-fake-data/.
+This folder contains the Tableau dashboard and the Power BI dashboard for "retail transactions" data. The original dataset is available from https://sonsofhierarchies.com/real-world-fake-data/.
 
 # File Description
 * Retail Transactions raw file.csv : The original dataset
