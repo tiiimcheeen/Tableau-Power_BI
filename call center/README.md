@@ -1,4 +1,4 @@
-This folder contains the Tableau dashboard for "customer hotline" data.
+This folder contains the Tableau dashboard and the Power BI dashboard for "customer hotline" data.
 
 # File Description
 * Customer Hotline.xlsx : The original dataset
